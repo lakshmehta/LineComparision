@@ -1,0 +1,13 @@
+F:\LINE COM\LineComUC3\LineComUC3\bin\Debug\netcoreapp3.1\LineComUC3.exe
+F:\LINE COM\LineComUC3\LineComUC3\bin\Debug\netcoreapp3.1\LineComUC3.deps.json
+F:\LINE COM\LineComUC3\LineComUC3\bin\Debug\netcoreapp3.1\LineComUC3.runtimeconfig.json
+F:\LINE COM\LineComUC3\LineComUC3\bin\Debug\netcoreapp3.1\LineComUC3.runtimeconfig.dev.json
+F:\LINE COM\LineComUC3\LineComUC3\bin\Debug\netcoreapp3.1\LineComUC3.dll
+F:\LINE COM\LineComUC3\LineComUC3\bin\Debug\netcoreapp3.1\LineComUC3.pdb
+F:\LINE COM\LineComUC3\LineComUC3\obj\Debug\netcoreapp3.1\LineComUC3.csprojAssemblyReference.cache
+F:\LINE COM\LineComUC3\LineComUC3\obj\Debug\netcoreapp3.1\LineComUC3.AssemblyInfoInputs.cache
+F:\LINE COM\LineComUC3\LineComUC3\obj\Debug\netcoreapp3.1\LineComUC3.AssemblyInfo.cs
+F:\LINE COM\LineComUC3\LineComUC3\obj\Debug\netcoreapp3.1\LineComUC3.csproj.CoreCompileInputs.cache
+F:\LINE COM\LineComUC3\LineComUC3\obj\Debug\netcoreapp3.1\LineComUC3.dll
+F:\LINE COM\LineComUC3\LineComUC3\obj\Debug\netcoreapp3.1\LineComUC3.pdb
+F:\LINE COM\LineComUC3\LineComUC3\obj\Debug\netcoreapp3.1\LineComUC3.genruntimeconfig.cache

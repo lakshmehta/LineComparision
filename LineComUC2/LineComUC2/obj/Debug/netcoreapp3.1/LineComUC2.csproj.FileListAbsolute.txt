@@ -1,0 +1,12 @@
+F:\LINE COM\LineComUC2\LineComUC2\obj\Debug\netcoreapp3.1\LineComUC2.AssemblyInfoInputs.cache
+F:\LINE COM\LineComUC2\LineComUC2\obj\Debug\netcoreapp3.1\LineComUC2.AssemblyInfo.cs
+F:\LINE COM\LineComUC2\LineComUC2\obj\Debug\netcoreapp3.1\LineComUC2.csproj.CoreCompileInputs.cache
+F:\LINE COM\LineComUC2\LineComUC2\bin\Debug\netcoreapp3.1\LineComUC2.exe
+F:\LINE COM\LineComUC2\LineComUC2\bin\Debug\netcoreapp3.1\LineComUC2.deps.json
+F:\LINE COM\LineComUC2\LineComUC2\bin\Debug\netcoreapp3.1\LineComUC2.runtimeconfig.json
+F:\LINE COM\LineComUC2\LineComUC2\bin\Debug\netcoreapp3.1\LineComUC2.runtimeconfig.dev.json
+F:\LINE COM\LineComUC2\LineComUC2\bin\Debug\netcoreapp3.1\LineComUC2.dll
+F:\LINE COM\LineComUC2\LineComUC2\bin\Debug\netcoreapp3.1\LineComUC2.pdb
+F:\LINE COM\LineComUC2\LineComUC2\obj\Debug\netcoreapp3.1\LineComUC2.dll
+F:\LINE COM\LineComUC2\LineComUC2\obj\Debug\netcoreapp3.1\LineComUC2.pdb
+F:\LINE COM\LineComUC2\LineComUC2\obj\Debug\netcoreapp3.1\LineComUC2.genruntimeconfig.cache
